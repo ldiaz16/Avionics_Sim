@@ -1,2 +1,6 @@
-# Avionics_Sim
-Introductory side project to learn more about Avionics Software 
+# Avionics Sim
+
+Beginner C++ project simulating a basic avionics control loop with
+sensor updates, system status, and flight mode logic.
+
+Built as a learning project for avionics software engineering.
