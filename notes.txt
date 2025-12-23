@@ -1,0 +1,9 @@
+constexpr matters because it guarantees values are 
+known at compile time, allowing the compiler to safely 
+allocate memory, enforce timing, and verify system 
+constraints—something const does not always guarantee. 
+
+Globals are dangerous because they hide dependencies 
+and side effects, making it unclear which data a 
+function relies on or modifies, which increases the
+risk of subtle bugs in safety-critical systems.
