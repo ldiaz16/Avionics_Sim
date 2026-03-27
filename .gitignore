@@ -1,1 +1,5 @@
-
+*.o
+avionics_sim
+run_tests
+basics
+.DS_Store
